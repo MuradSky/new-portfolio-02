@@ -1,0 +1,737 @@
+[
+    {
+        "name": "Полукрывное",
+        "trees": [
+            {
+                "name": "Сосна",
+                "image-url": "./img/content/configurator/t1.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color1/1.png",
+                        "window": "./img/content/configurator/colors/color1/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color1/2.png",
+                        "window": "./img/content/configurator/colors/color1/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color1/3.png",
+                        "window": "./img/content/configurator/colors/color1/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color1/4.png",
+                        "window": "./img/content/configurator/colors/color1/c4.png"
+                    },
+                    {
+                        "name": "Цвет 5",
+                        "image-url": "./img/content/configurator/colors/color1/5.png",
+                        "window": "./img/content/configurator/colors/color1/c5.png"
+                    },
+                    {
+                        "name": "Цвет 6",
+                        "image-url": "./img/content/configurator/colors/color1/6.png",
+                        "window": "./img/content/configurator/colors/color1/c6.png"
+                    },
+                    {
+                        "name": "Цвет 7",
+                        "image-url": "./img/content/configurator/colors/color1/7.png",
+                        "window": "./img/content/configurator/colors/color1/c7.png"
+                    },
+                    {
+                        "name": "Цвет 8",
+                        "image-url": "./img/content/configurator/colors/color1/8.png",
+                        "window": "./img/content/configurator/colors/color1/c8.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            },
+            {
+                "name": "Лиственица",
+                "image-url": "./img/content/configurator/t2.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color2/1.png",
+                        "window": "./img/content/configurator/colors/color2/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color2/2.png",
+                        "window": "./img/content/configurator/colors/color2/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color2/3.png",
+                        "window": "./img/content/configurator/colors/color2/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color2/4.png",
+                        "window": "./img/content/configurator/colors/color2/c4.png"
+                    },
+                    {
+                        "name": "Цвет 5",
+                        "image-url": "./img/content/configurator/colors/color2/5.png",
+                        "window": "./img/content/configurator/colors/color2/c5.png"
+                    },
+                    {
+                        "name": "Цвет 6",
+                        "image-url": "./img/content/configurator/colors/color2/6.png",
+                        "window": "./img/content/configurator/colors/color2/c6.png"
+                    },
+                    {
+                        "name": "Цвет 7",
+                        "image-url": "./img/content/configurator/colors/color2/7.png",
+                        "window": "./img/content/configurator/colors/color2/c7.png"
+                    },
+                    {
+                        "name": "Цвет 8",
+                        "image-url": "./img/content/configurator/colors/color2/8.png",
+                        "window": "./img/content/configurator/colors/color2/c8.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            },
+            {
+                "name": "Дуб",
+                "image-url": "./img/content/configurator/t3.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color3/1.png",
+                        "window": "./img/content/configurator/colors/color3/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color3/2.png",
+                        "window": "./img/content/configurator/colors/color3/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color3/3.png",
+                        "window": "./img/content/configurator/colors/color3/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color3/4.png",
+                        "window": "./img/content/configurator/colors/color3/c4.png"
+                    },
+                    {
+                        "name": "Цвет 5",
+                        "image-url": "./img/content/configurator/colors/color3/5.png",
+                        "window": "./img/content/configurator/colors/color3/c5.png"
+                    },
+                    {
+                        "name": "Цвет 6",
+                        "image-url": "./img/content/configurator/colors/color3/6.png",
+                        "window": "./img/content/configurator/colors/color3/c6.png"
+                    },
+                    {
+                        "name": "Цвет 7",
+                        "image-url": "./img/content/configurator/colors/color3/7.png",
+                        "window": "./img/content/configurator/colors/color3/c7.png"
+                    },
+                    {
+                        "name": "Цвет 8",
+                        "image-url": "./img/content/configurator/colors/color3/8.png",
+                        "window": "./img/content/configurator/colors/color3/c8.png"
+                    }
+
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            },
+            {
+                "name": "Ценные породы",
+                "image-url": "./img/content/configurator/t4.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color4/1.png",
+                        "window": "./img/content/configurator/colors/color4/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color4/2.png",
+                        "window": "./img/content/configurator/colors/color4/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color4/3.png",
+                        "window": "./img/content/configurator/colors/color4/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color4/4.png",
+                        "window": "./img/content/configurator/colors/color4/c4.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Укрывное",
+        "trees": [
+            {
+                "name": "Сосна",
+                "image-url": "./img/content/configurator/t1.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color5/1.png",
+                        "window": "./img/content/configurator/colors/color5/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color5/2.png",
+                        "window": "./img/content/configurator/colors/color5/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color5/3.png",
+                        "window": "./img/content/configurator/colors/color5/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/4.png",
+                        "window": "./img/content/configurator/colors/color5/c4.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/5.png",
+                        "window": "./img/content/configurator/colors/color5/c5.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/6.png",
+                        "window": "./img/content/configurator/colors/color5/c6.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/7.png",
+                        "window": "./img/content/configurator/colors/color5/c7.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/8.png",
+                        "window": "./img/content/configurator/colors/color5/c8.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            },
+            {
+                "name": "Лиственица",
+                "image-url": "./img/content/configurator/t2.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color5/1.png",
+                        "window": "./img/content/configurator/colors/color5/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color5/2.png",
+                        "window": "./img/content/configurator/colors/color5/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color5/3.png",
+                        "window": "./img/content/configurator/colors/color5/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/4.png",
+                        "window": "./img/content/configurator/colors/color5/c4.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/5.png",
+                        "window": "./img/content/configurator/colors/color5/c5.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/6.png",
+                        "window": "./img/content/configurator/colors/color5/c6.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/7.png",
+                        "window": "./img/content/configurator/colors/color5/c7.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/8.png",
+                        "window": "./img/content/configurator/colors/color5/c8.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            },
+            {
+                "name": "Дуб",
+                "image-url": "./img/content/configurator/t3.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color5/1.png",
+                        "window": "./img/content/configurator/colors/color5/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color5/2.png",
+                        "window": "./img/content/configurator/colors/color5/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color5/3.png",
+                        "window": "./img/content/configurator/colors/color5/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/4.png",
+                        "window": "./img/content/configurator/colors/color5/c4.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/5.png",
+                        "window": "./img/content/configurator/colors/color5/c5.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/6.png",
+                        "window": "./img/content/configurator/colors/color5/c6.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/7.png",
+                        "window": "./img/content/configurator/colors/color5/c7.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/8.png",
+                        "window": "./img/content/configurator/colors/color5/c8.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            },
+            {
+                "name": "Ценные породы",
+                "image-url": "./img/content/configurator/t4.png",
+                "colors": [
+                    {
+                        "name": "Цвет 1",
+                        "image-url": "./img/content/configurator/colors/color5/1.png",
+                        "window": "./img/content/configurator/colors/color5/c1.png"
+                    },
+                    {
+                        "name": "Цвет 2",
+                        "image-url": "./img/content/configurator/colors/color5/2.png",
+                        "window": "./img/content/configurator/colors/color5/c2.png"
+                    },
+                    {
+                        "name": "Цвет 3",
+                        "image-url": "./img/content/configurator/colors/color5/3.png",
+                        "window": "./img/content/configurator/colors/color5/c3.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/4.png",
+                        "window": "./img/content/configurator/colors/color5/c4.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/5.png",
+                        "window": "./img/content/configurator/colors/color5/c5.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/6.png",
+                        "window": "./img/content/configurator/colors/color5/c6.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/7.png",
+                        "window": "./img/content/configurator/colors/color5/c7.png"
+                    },
+                    {
+                        "name": "Цвет 4",
+                        "image-url": "./img/content/configurator/colors/color5/8.png",
+                        "window": "./img/content/configurator/colors/color5/c8.png"
+                    }
+                ],
+                "accessory": [
+                    {
+                        "name": "Серебро натуральное",
+                        "image-url": "./img/content/configurator/accessory/1.png",
+                        "access": "./img/content/configurator/accessory/acc1.png"
+                    },
+                    {
+                        "name": "Серебро светлое",
+                        "image-url": "./img/content/configurator/accessory/2.png",
+                        "access": "./img/content/configurator/accessory/acc2.png"
+                    },
+                    {
+                        "name": "Титан матовый",
+                        "image-url": "./img/content/configurator/accessory/3.png",
+                        "access": "./img/content/configurator/accessory/acc3.png"
+                    },
+                    {
+                        "name": "Латунь матовая",
+                        "image-url": "./img/content/configurator/accessory/4.png",
+                        "access": "./img/content/configurator/accessory/acc4.png"
+                    },
+                    {
+                        "name": "Бронза",
+                        "image-url": "./img/content/configurator/accessory/5.png",
+                        "access": "./img/content/configurator/accessory/acc5.png"
+                    },
+                    {
+                        "name": "Бронза темная",
+                        "image-url": "./img/content/configurator/accessory/6.png",
+                        "access": "./img/content/configurator/accessory/acc6.png"
+                    },
+                    {
+                        "name": "Серо-коричневый",
+                        "image-url": "./img/content/configurator/accessory/7.png",
+                        "access": "./img/content/configurator/accessory/acc7.png"
+                    },
+                    {
+                        "name": "Темно-коричневый",
+                        "image-url": "./img/content/configurator/accessory/8.png",
+                        "access": "./img/content/configurator/accessory/acc8.png"
+                    },
+                    {
+                        "name": "Белый",
+                        "image-url": "./img/content/configurator/accessory/9.png",
+                        "access": "./img/content/configurator/accessory/acc9.png"
+                    }
+                ]
+            }
+        ]
+    }
+]
